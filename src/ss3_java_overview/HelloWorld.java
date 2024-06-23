@@ -5,7 +5,6 @@ public class HelloWorld {
         char a = 'a';
         char b = a;
         char c = b;
-            
-        System.out.println(a=c);
+        System.out.println("heleloloeoasdf");
     }
 }
