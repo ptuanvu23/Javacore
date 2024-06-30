@@ -1,6 +1,4 @@
-package Java_summary;
-
-import java.util.Scanner;
+package java_summary;
 
 public class Exercise7 {
     public static void main(String[] args) {
